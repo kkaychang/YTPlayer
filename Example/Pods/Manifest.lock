@@ -1,0 +1,16 @@
+PODS:
+  - YTPlayer (0.0.1)
+
+DEPENDENCIES:
+  - YTPlayer (from `../YTPlayer`)
+
+EXTERNAL SOURCES:
+  YTPlayer:
+    :path: "../YTPlayer"
+
+SPEC CHECKSUMS:
+  YTPlayer: e6b689f89cfc62d5caa4b7da1653c304344a82b3
+
+PODFILE CHECKSUM: 372d1870e8ad390abf65d94dfc7b9c7d57beb812
+
+COCOAPODS: 1.12.1
