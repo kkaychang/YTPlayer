@@ -53,6 +53,8 @@
 		68031ECE2ACD52FA00E4FC38 = {
 			isa = PBXGroup;
 			children = (
+				68031F132ACD584400E4FC38 /* Source */,
+				68031F122ACD579300E4FC38 /* Classes */,
 				68031EDA2ACD52FA00E4FC38 /* YTPlayer */,
 				68031EE62ACD52FA00E4FC38 /* YTPlayerTests */,
 				68031ED92ACD52FA00E4FC38 /* Products */,
@@ -83,6 +85,20 @@
 				68031EE72ACD52FA00E4FC38 /* YTPlayerTests.swift */,
 			);
 			path = YTPlayerTests;
+			sourceTree = "<group>";
+		};
+		68031F122ACD579300E4FC38 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		68031F132ACD584400E4FC38 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Source;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
